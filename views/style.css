@@ -1,0 +1,5 @@
+.tmp {
+	min-height: 50px;
+	min-width: 50px;
+	border: 1px red solid;
+}
